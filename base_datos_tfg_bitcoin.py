@@ -21,7 +21,7 @@ from pandas_datareader import data as pdr
 # ============================================================
 
 START_DATE = "2016-01-01"
-END_DATE = "2026-05-01"  # end es exclusivo en yfinance; así se incluye abril de 2026
+END_DATE = "2026-03-01"
 OUTPUT_FILE = "base_datos_tfg_bitcoin.xlsx"
 
 
